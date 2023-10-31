@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+}
+header img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+.icone{
+    text-align: center;
+}
+.container{
+    padding: 0px 50px;
+}
+img{
+    width: 400px;
+    height: 300px
+}
+.estudando{
+    text-align: center;
+    padding: 60px
+}
+ul{
+    list-style-type: style type; ;
+}
+
+
